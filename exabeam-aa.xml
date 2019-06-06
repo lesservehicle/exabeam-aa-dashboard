@@ -199,7 +199,7 @@
   </row>
   <row>
     <panel>
-      <title>List of Notable Sessions</title>
+      <title>Notable Sessions</title>
       <table>
         <search>
           <query>index=exabeam sequence_type=session score&gt;$risk_score$ 
