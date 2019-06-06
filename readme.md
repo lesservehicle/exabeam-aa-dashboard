@@ -2,7 +2,7 @@
 
 ![Dashboard Screenshot](./exabeam-aa.png)
 
-A dashboard for getting a handle on Exabeam notable sessions and assets. Supports functionality to click through on the events table, taking you directly to the timeline on Exabeam AA.
+A dashboard for getting a handle on Exabeam notable sessions and assets. Supports functionality to click through on the events table, taking you directly to the timeline on Exabeam AA. Be sure to specify the IP or hostname of your Exabeam AA host in the top field in order to enable this functionality.
 
 ## Requirements
 
